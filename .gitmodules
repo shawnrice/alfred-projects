@@ -1,0 +1,33 @@
+[submodule "alfred2-text-manipulator"]
+	path = alfred2-text-manipulator
+	url = https://github.com/shawnrice/alfred2-text-manipulator.git
+[submodule "alfred2-barrel-roll"]
+	path = alfred2-barrel-roll
+	url = https://github.com/shawnrice/alfred2-barrel-roll.git
+[submodule "alfred2-dhcp-toggle"]
+	path = alfred2-dhcp-toggle
+	url = https://github.com/shawnrice/alfred2-dhcp-toggle.git
+[submodule "alfred2-workflow-remove-dup-applescript-dicts"]
+	path = alfred2-workflow-remove-dup-applescript-dicts
+	url = https://github.com/shawnrice/alfred2-workflow-remove-dup-applescript-dicts.git
+[submodule "alfred2-workflow-toggle-caffeine"]
+	path = alfred2-workflow-toggle-caffeine
+	url = https://github.com/shawnrice/alfred2-workflow-toggle-caffeine.git
+[submodule "alfred2-sudoers"]
+	path = alfred2-sudoers
+	url = https://github.com/shawnrice/alfred2-sudoers.git
+[submodule "alfred-notifier"]
+	path = alfred-notifier
+	url = https://github.com/shawnrice/alfred-notifier.git
+[submodule "alfred2-workflow-help"]
+	path = alfred2-workflow-help
+	url = https://github.com/shawnrice/alfred2-workflow-help.git
+[submodule "alfred-bundler"]
+	path = alfred-bundler
+	url = https://github.com/shawnrice/alfred-bundler.git
+[submodule "alfred-cron"]
+	path = alfred-cron
+	url = https://github.com/shawnrice/alfred-cron.git
+[submodule "alfred-2-caffeinate-workflow"]
+	path = alfred-2-caffeinate-workflow
+	url = https://github.com/shawnrice/alfred-2-caffeinate-workflow.git
