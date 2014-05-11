@@ -31,3 +31,6 @@
 [submodule "alfred-2-caffeinate-workflow"]
 	path = alfred-2-caffeinate-workflow
 	url = https://github.com/shawnrice/alfred-2-caffeinate-workflow.git
+[submodule "alfred.flux"]
+	path = alfred.flux
+	url = https://github.com/shawnrice/alfred.flux.git
